@@ -1,0 +1,5 @@
+weight decay is used.
+
+learning rate is different for generator and discriminator.
+
+adam is used.
